@@ -1,0 +1,20 @@
+# Maven
+target/
+
+# Archivos compilados Java
+*.class
+
+# WAR
+*.war
+
+# Logs
+*.log
+
+# NetBeans
+nbproject/private/
+
+# VSCode
+.vscode/
+
+# Mac
+.DS_Store
